@@ -11,10 +11,14 @@
 
 .header .logo{
     max-height: 32px;
+    padding-left:20px;
 }
 .header .tittle-group i{
-    padding-right:25px;
+    padding-right:15px;
 }
 .header .tittle-group{
     padding-left:5px;
+}
+.header .material-icons{
+    padding-left:120px;
 }
