@@ -19,6 +19,11 @@
       "name": "Geladeira Geloco",
       "price": "1590.0",
       "id": 4
+    },
+    {
+      "name": "Papel",
+      "price": "1.0",
+      "id": 5
     }
   ],
   "cliente": [

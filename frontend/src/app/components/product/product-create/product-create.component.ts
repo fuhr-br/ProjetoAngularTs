@@ -24,8 +24,6 @@ product: Product = {
   ngOnInit(): void {
   }
 
-  
-
   createProduct(): void {
     this.productService.create(this.product).subscribe( () =>{
     this.productService.showMessage('Operação executada com sucesso!')
