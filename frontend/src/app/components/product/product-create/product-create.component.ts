@@ -12,8 +12,8 @@ import {Router} from '@angular/router';
 export class ProductCreateComponent implements OnInit {
 
 product: Product = {
-  name: 'Produto de Teste',
-  price: 125.90,
+  name: '',
+  price: 0.00,
 
 }
 
