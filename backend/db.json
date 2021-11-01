@@ -14,6 +14,11 @@
       "name": "Produto de Teste",
       "price": 125.9,
       "id": 3
+    },
+    {
+      "name": "Geladeira Geloco",
+      "price": "1590.0",
+      "id": 4
     }
   ],
   "cliente": [
