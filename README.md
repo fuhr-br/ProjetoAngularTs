@@ -32,8 +32,8 @@ http://localhost:3001, basta adicionar o nome da lista criada e todos os método
 
 ### Versões dos softwares utilizadas neste projeto ###
 
-**Visual Studio 1.61.2 com as extensões: Material Icon Theme da _steoates_ , Auto Import da _Philip Kief_**
-**Angular CLI: 12.2.12**
-**Node: 14.17.4**
-**Package Manager: npm 6.14.14**
+**Visual Studio 1.61.2 com as extensões: Material Icon Theme da _steoates_ , Auto Import da _Philip Kief_**   
+**Angular CLI: 12.2.12**  
+**Node: 14.17.4**  
+**Package Manager: npm 6.14.14**  
 **OS: win32 x64**
