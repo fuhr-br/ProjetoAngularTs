@@ -1,6 +1,6 @@
 # Como Startar o projeto #
 
-Você precisará ter o _Node.js_ instalado no seu computador, bem como _angular_ e um _terminal_(BASH, CDM, PowerShell etc..) da sua preferência.
+Você precisará ter o _Node.js_ instalado no seu computador, bem como o framework _Angular_ e um _terminal_(BASH, CDM, PowerShell etc..) da sua preferência.
 Inicialmente, o programa está dividido em duas pastas, do front e do back e você precisará estartar
 dois servidores para ver a total funcionalidade do sistema.
 O 
