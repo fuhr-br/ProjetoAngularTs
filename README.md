@@ -1,4 +1,4 @@
-# Como Startar o projeto#
+# Como Startar o projeto #
 
 Você precisará ter o Node.js instalado no seu computador, bem como o bash e angular.
 Inicialmente, o programa está dividido em duas pastas, do front e do back.
