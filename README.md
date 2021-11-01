@@ -26,7 +26,7 @@ Agora você pode fazer **_requisições HTTP_** nas rotas:
 
  ### http://localhost:3001/products ####
  
-OBS: Se quiser usar somente o backend, poderá fazer requisições via [https://www.postman.com/downloads/](POSTMAN) 
+OBS: Se quiser usar somente o backend, poderá fazer requisições via [POSTMAN](https://www.postman.com/downloads/) 
 Para criar novas rotas, basta ir no arquivo **./backend/db.json** e inserir novas listas do tipo JSON, ao final do caminho 
 http://localhost:3001, basta adicionar o nome da lista criada e todos os métodos HTTP estarão automaticamente definidos.
 
