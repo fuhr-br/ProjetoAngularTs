@@ -28,7 +28,9 @@ Agora você pode fazer **_requisições HTTP_** nas rotas:
  
 OBS: Se quiser usar somente o backend, poderá fazer requisições via [POSTMAN](https://www.postman.com/downloads/)   
 Para criar novas rotas, basta ir no arquivo **./backend/db.json** e inserir novas listas do tipo JSON, ao final do caminho 
-http://localhost:3001, basta adicionar o nome da lista criada e todos os métodos HTTP estarão automaticamente definidos.
+http://localhost:3001, basta adicionar o nome da lista criada e todos os métodos HTTP estarão automaticamente definidos.  
+O Node.js também aceita consulta por paginação  
+Exemplo de consulta: **http://localhost:3001/products?_page=1&_limit=2**
 
 ### Versões dos softwares utilizadas neste projeto ###
 
