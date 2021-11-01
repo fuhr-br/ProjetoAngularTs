@@ -11,19 +11,9 @@
       "price": 100.6
     },
     {
-      "id": 3,
-      "name": "Sansung",
-      "price": 6000.89
-    },
-    {
-      "name": "Galeteria",
-      "price": "15.20",
-      "id": 4
-    },
-    {
-      "name": "Galeteria",
-      "price": "15.20",
-      "id": 5
+      "name": "Produto de Teste",
+      "price": 125.9,
+      "id": 3
     }
   ],
   "cliente": [
