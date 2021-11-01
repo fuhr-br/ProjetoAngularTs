@@ -1,28 +1,34 @@
 # Como Startar o projeto #
 
-Você precisará ter o Node.js instalado no seu computador, bem como o bash e angular.
-Inicialmente, o programa está dividido em duas pastas, do front e do back.
+Você precisará ter o _Node.js_ instalado no seu computador, bem como _angular_ e um _terminal_(BASH, CDM, PowerShell etc..) da sua preferência.
+Inicialmente, o programa está dividido em duas pastas, do front e do back e você precisará estartar
+dois servidores para ver a total funcionalidade do sistema.
+O 
 
 ## No Frontend ##
 
-Entre na Pasta _frontend_, acesse o **bash here** e execute o seguinte comando:
+Entre na Pasta **_frontend_**, acesse o terminal e execute o seguinte comando:
 
-**nmp start**
+**npm start**
 
 Será iniciado um "servidor de frontend" na porta: **http://localhost:4200/**
 que irá monitorar toda e qualquer alteração no projeto na parte de frontend e
-você poderá visualizar e utilizar o site.
+você poderá visualizar e utilizar o site via browser.
 
 ## No backend ##
 
 Entre na pasta **_backend_** e no terminal de o seguinte comando:
 
-**nmp start**
+**npm start**
 
-Será iniciado um "servidor de backend" na porta: ** http://localhost:3001**
+Será iniciado um "servidor de backend" na porta: **http://localhost:3001**
 Agora você pode fazer **_requisições HTTP_** nas rotas:
 
  ### http://localhost:3001/products ####
+ 
+OBS: Se quiser usar somente o backend, poderá fazer requisições via [https://www.postman.com/downloads/](POSTMAN) 
+Para criar novas rotas, basta ir no arquivo **./backend/db.json** e inserir novas listas do tipo JSON, ao final do caminho 
+http://localhost:3001, basta adicionar o nome da lista criada e todos os métodos HTTP estarão automaticamente definidos.
 
 ### Versões dos softwares utilizadas neste projeto ###
 
