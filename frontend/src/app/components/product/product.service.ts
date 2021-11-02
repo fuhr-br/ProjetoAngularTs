@@ -31,7 +31,7 @@ baseUrl = "http://localhost:3001/products"
   }
 
   errorHandler(e: any): Observable<any>{
-    this.showMessage('Impossivel se conectar a base de dado!', true);
+    this.showMessage('Impossivel se conectar a base de dados!', true);
     return EMPTY
   }
 
