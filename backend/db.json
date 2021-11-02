@@ -22,8 +22,18 @@
     },
     {
       "name": "Papel",
-      "price": "1.0",
+      "price": "3.0",
       "id": 5
+    },
+    {
+      "name": "anderson",
+      "price": "5.2",
+      "id": 6
+    },
+    {
+      "name": "geladeira",
+      "price": "10.5",
+      "id": 7
     }
   ],
   "cliente": [
