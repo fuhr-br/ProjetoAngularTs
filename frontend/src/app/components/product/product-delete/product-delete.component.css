@@ -4,5 +4,8 @@ form{
 }
 button{
     margin: 20px 15px 0px 0px ;
-    color:blue;
+    color:rgb(60, 29, 196);
+}
+.cancelar{
+    color:rgb(196, 40, 29);
 }
