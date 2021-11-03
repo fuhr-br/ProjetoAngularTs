@@ -10,7 +10,7 @@ export class ProductCrudComponent implements OnInit {
 
   constructor(private router : Router,  headerService : HeaderService) { 
     headerService.headerData ={
-      title: 'Inicio',
+      title: 'Produtos',
       icon: 'storefront',
       routerUrl: '/products'
     }
